@@ -1,2 +1,2 @@
 # digital-clock
-Digital clock HTML-CSS-JS project
+Digital clock HTML-CSS-JS project 
