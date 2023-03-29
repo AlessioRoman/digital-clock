@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.spacing {
+    letter-spacing: 6pt;
+}
+
